@@ -1,0 +1,501 @@
+Q1_Email,Q2_Gender,Q3_Age,Q4_Income,Q5_Neighborhood,Q6_Taxis,Q7_Rideshare,Q8_Flying_Taxi,Q9_If_Yes,Q10_If_No
+emailofnewyorker+369@gmail.com,M,65,"$80,000 - $120,000",Hudson Yards,N,Y,Y,22,
+emailofnewyorker+429@gmail.com,F,25,"$120,000 - $200,000",Fort George,Y,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+159@gmail.com,F,49,"$20,001 - $40,000",Theater District,N,Y,Y,6,
+emailofnewyorker+414@gmail.com,M,72,"> $200,000",Tribeca,Y,N,N,,Wouldn't trust the person flying it
+emailofnewyorker+375@gmail.com,F,42,"$80,000 - $120,000",Yorkville,N,N,Y,24,
+emailofnewyorker+94@gmail.com,F,40,"$120,000 - $200,000",Midtown,Y,Y,Y,30,
+emailofnewyorker+60@gmail.com,M,39,"$0 - $20,000",Alphabet City and Loisaida,Y,N,Y,8,
+emailofnewyorker+58@gmail.com,F,61,"$0 - $20,000",Tudor City,Y,Y,Y,16,
+emailofnewyorker+175@gmail.com,F,28,"$20,001 - $40,000",Astor Row (Central Harlem),Y,Y,Y,15,
+emailofnewyorker+86@gmail.com,M,46,"$120,000 - $200,000",Theater District,Y,N,Y,40,
+emailofnewyorker+410@gmail.com,M,71,"> $200,000",Chinatown,N,Y,N,,It would be too expensive
+emailofnewyorker+298@gmail.com,F,28,"$40,001 - $80,000",Astor Row (Central Harlem),Y,Y,Y,25,
+emailofnewyorker+394@gmail.com,M,62,"$80,000 - $120,000",Greenwich Village,Y,N,Y,23,
+emailofnewyorker+382@gmail.com,F,27,"$80,000 - $120,000","Manhattan Valley, Bloomingdale District",Y,Y,Y,28,
+emailofnewyorker+210@gmail.com,F,76,"$40,001 - $80,000",Midtown,Y,N,Y,23,
+emailofnewyorker+455@gmail.com,F,67,"$40,001 - $80,000",West Harlem,Y,N,N,,Not worth the extra money
+emailofnewyorker+134@gmail.com,M,68,"$120,000 - $200,000",Radio Row,Y,Y,Y,34,
+emailofnewyorker+263@gmail.com,F,24,"$40,001 - $80,000",Herald Square,Y,N,Y,12,
+emailofnewyorker+326@gmail.com,F,18,"$80,000 - $120,000",Rockefeller Center,Y,Y,Y,22,
+emailofnewyorker+406@gmail.com,F,35,"> $200,000",Midtown West,Y,N,N,,It would be too expensive
+emailofnewyorker+361@gmail.com,F,45,"$80,000 - $120,000",Midtown,N,Y,Y,18,
+emailofnewyorker+363@gmail.com,M,47,"$80,000 - $120,000",Upper West Side,Y,Y,Y,23,
+emailofnewyorker+480@gmail.com,F,48,"$80,000 - $120,000",Times Square,Y,Y,N,,It's unsafe
+emailofnewyorker+82@gmail.com,F,52,"$120,000 - $200,000",Washington Heights,Y,Y,Y,22,
+emailofnewyorker+113@gmail.com,M,23,"$120,000 - $200,000",Midtown West,Y,N,Y,30,
+emailofnewyorker+294@gmail.com,F,53,"$40,001 - $80,000",Little Australia,Y,N,Y,13,
+emailofnewyorker+288@gmail.com,M,41,"$40,001 - $80,000",Lower East Side,Y,N,Y,28,
+emailofnewyorker+144@gmail.com,F,67,"$120,000 - $200,000",Little Australia,Y,N,Y,28,
+emailofnewyorker+28@gmail.com,F,72,"> $200,000",Tribeca,Y,N,Y,43,
+emailofnewyorker+449@gmail.com,F,71,"$40,001 - $80,000",Sutton Place,Y,Y,N,,It's dangerous
+emailofnewyorker+208@gmail.com,M,62,"$40,001 - $80,000",Financial District,N,N,Y,23,
+emailofnewyorker+147@gmail.com,M,25,"$120,000 - $200,000",NoHo,Y,Y,Y,26,
+emailofnewyorker+475@gmail.com,F,27,"$40,001 - $80,000",Tenderloin,Y,N,N,,Wouldn't trust the person flying it
+emailofnewyorker+112@gmail.com,F,41,"$120,000 - $200,000",Columbus Circle,N,Y,Y,34,
+emailofnewyorker+362@gmail.com,M,71,"$80,000 - $120,000",Diamond District,Y,N,Y,20,
+emailofnewyorker+194@gmail.com,M,28,"$20,001 - $40,000",Civic Center,Y,N,Y,21,
+emailofnewyorker+84@gmail.com,M,48,"$120,000 - $200,000",Midtown East,Y,Y,Y,29,
+emailofnewyorker+34@gmail.com,F,62,"> $200,000",Tribeca,Y,N,Y,31,
+emailofnewyorker+459@gmail.com,M,52,"$40,001 - $80,000",Koreatown,Y,Y,N,,Not worth the extra money
+emailofnewyorker+237@gmail.com,F,63,"$40,001 - $80,000",Hell's Kitchen,N,Y,Y,22,
+emailofnewyorker+14@gmail.com,F,47,"> $200,000",Tribeca,Y,N,Y,43,
+emailofnewyorker+67@gmail.com,M,34,"$120,000 - $200,000",Columbus Circle,Y,Y,Y,42,
+emailofnewyorker+350@gmail.com,F,64,"$80,000 - $120,000",Sugar Hill (Central Harlem),Y,Y,Y,25,
+emailofnewyorker+125@gmail.com,F,49,"$120,000 - $200,000",Midtown,Y,Y,Y,25,
+emailofnewyorker+63@gmail.com,F,31,"$120,000 - $200,000",Bowery,Y,N,Y,37,
+emailofnewyorker+370@gmail.com,F,61,"$80,000 - $120,000",Sugar Hill (Central Harlem),Y,Y,Y,15,
+emailofnewyorker+424@gmail.com,F,46,"$120,000 - $200,000",Sutton Place,Y,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+467@gmail.com,M,54,"$40,001 - $80,000",Inwood,Y,N,N,,Not worth the extra money
+emailofnewyorker+418@gmail.com,F,47,"$0 - $20,000",Downtown Manhattan,N,Y,N,,Wouldn't trust the person flying it
+emailofnewyorker+244@gmail.com,F,70,"$40,001 - $80,000",Little Brazil,Y,N,Y,22,
+emailofnewyorker+221@gmail.com,F,22,"$40,001 - $80,000",Financial District,Y,Y,Y,26,
+emailofnewyorker+3@gmail.com,F,76,"> $200,000",Astor Row (Central Harlem),N,Y,Y,37,
+emailofnewyorker+111@gmail.com,M,60,"$120,000 - $200,000",Times Square,Y,N,Y,29,
+emailofnewyorker+270@gmail.com,F,39,"$40,001 - $80,000",Little Brazil,Y,Y,Y,17,
+emailofnewyorker+47@gmail.com,F,40,"$0 - $20,000",Carnegie Hill,Y,N,Y,5,
+emailofnewyorker+485@gmail.com,M,57,"$80,000 - $120,000",East Harlem (Spanish Harlem),Y,Y,N,,My commute is fairly efficient
+emailofnewyorker+412@gmail.com,F,76,"> $200,000",Sutton Place,Y,N,N,,I think it's more dangerous
+emailofnewyorker+89@gmail.com,F,35,"$120,000 - $200,000",Fort George,Y,N,Y,25,
+emailofnewyorker+443@gmail.com,M,75,"$20,001 - $40,000",Little Brazil,Y,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+138@gmail.com,M,65,"$120,000 - $200,000",Turtle Bay,Y,Y,Y,23,
+emailofnewyorker+290@gmail.com,F,76,"$40,001 - $80,000",Hudson Yards,Y,N,Y,28,
+emailofnewyorker+218@gmail.com,M,40,"$40,001 - $80,000","Manhattan Valley, Bloomingdale District",Y,Y,Y,18,
+emailofnewyorker+302@gmail.com,F,63,"$40,001 - $80,000",Rockefeller Center,Y,Y,Y,15,
+emailofnewyorker+378@gmail.com,M,48,"$80,000 - $120,000",Tenderloin,Y,N,Y,25,
+emailofnewyorker+472@gmail.com,M,34,"$40,001 - $80,000",St. Nicholas Historic District (Central Harlem),N,Y,N,,Not worth the extra money
+emailofnewyorker+196@gmail.com,F,73,"$20,001 - $40,000",Carnegie Hill,Y,N,Y,24,
+emailofnewyorker+446@gmail.com,M,36,"$20,001 - $40,000",Little Germany,Y,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+137@gmail.com,M,59,"$120,000 - $200,000",Upper Manhattan,Y,N,Y,23,
+emailofnewyorker+73@gmail.com,F,54,"$120,000 - $200,000",Madison Square,Y,Y,Y,23,
+emailofnewyorker+300@gmail.com,F,27,"$40,001 - $80,000",Koreatown,Y,N,Y,18,
+emailofnewyorker+54@gmail.com,F,32,"$0 - $20,000","Marcus Garvey Park, Mount Morris Historical District",Y,N,Y,11,
+emailofnewyorker+346@gmail.com,M,60,"$80,000 - $120,000",Marble Hill,Y,Y,Y,14,
+emailofnewyorker+493@gmail.com,F,68,"$80,000 - $120,000",Midtown,N,N,N,,Wouldn't trust the person flying it
+emailofnewyorker+184@gmail.com,M,66,"$20,001 - $40,000",Midtown,N,Y,Y,13,
+emailofnewyorker+191@gmail.com,M,47,"$20,001 - $40,000",Nolita,Y,Y,Y,18,
+emailofnewyorker+172@gmail.com,F,22,"$20,001 - $40,000",Madison Square,N,Y,Y,14,
+emailofnewyorker+22@gmail.com,M,23,"> $200,000",Times Square,Y,Y,Y,38,
+emailofnewyorker+272@gmail.com,F,52,"$40,001 - $80,000",Hamilton Heights,Y,Y,Y,11,
+emailofnewyorker+174@gmail.com,F,75,"$20,001 - $40,000",Tribeca,Y,Y,Y,20,
+emailofnewyorker+176@gmail.com,F,25,"$20,001 - $40,000",Sutton Place,Y,N,Y,9,
+emailofnewyorker+336@gmail.com,F,37,"$80,000 - $120,000",Koreatown,Y,N,Y,20,
+emailofnewyorker+139@gmail.com,M,51,"$120,000 - $200,000",Midtown,Y,Y,Y,37,
+emailofnewyorker+259@gmail.com,M,68,"$40,001 - $80,000",Theater District,Y,N,Y,15,
+emailofnewyorker+457@gmail.com,F,41,"$40,001 - $80,000",Radio Row,Y,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+71@gmail.com,F,50,"$120,000 - $200,000",Tudor City,N,Y,Y,21,
+emailofnewyorker+226@gmail.com,M,59,"$40,001 - $80,000",Midtown West,Y,Y,Y,21,
+emailofnewyorker+389@gmail.com,F,18,"$80,000 - $120,000",Herald Square,Y,N,Y,15,
+emailofnewyorker+168@gmail.com,F,49,"$20,001 - $40,000",Upper Manhattan,Y,N,Y,21,
+emailofnewyorker+377@gmail.com,F,38,"$80,000 - $120,000",Greenwich Village,Y,N,Y,24,
+emailofnewyorker+388@gmail.com,F,39,"$80,000 - $120,000",Columbus Circle,N,Y,Y,25,
+emailofnewyorker+380@gmail.com,F,18,"$80,000 - $120,000",Diamond District,Y,N,Y,24,
+emailofnewyorker+56@gmail.com,M,57,"$0 - $20,000",East Village,Y,N,Y,21,
+emailofnewyorker+80@gmail.com,F,62,"$120,000 - $200,000",Nolita,Y,Y,Y,30,
+emailofnewyorker+343@gmail.com,F,26,"$80,000 - $120,000",Manhattanville,Y,N,Y,24,
+emailofnewyorker+496@gmail.com,F,73,"$80,000 - $120,000","Marcus Garvey Park, Mount Morris Historical District",N,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+222@gmail.com,M,24,"$40,001 - $80,000",Little Italy,Y,N,Y,28,
+emailofnewyorker+391@gmail.com,F,73,"$80,000 - $120,000",St. Nicholas Historic District (Central Harlem),Y,N,Y,25,
+emailofnewyorker+319@gmail.com,F,49,"$80,000 - $120,000",Midtown East,Y,N,Y,16,
+emailofnewyorker+426@gmail.com,M,21,"$120,000 - $200,000",Lower East Side,Y,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+295@gmail.com,F,41,"$40,001 - $80,000",Marble Hill,N,N,Y,27,
+emailofnewyorker+234@gmail.com,F,74,"$40,001 - $80,000",Madison Square,Y,N,Y,9,
+emailofnewyorker+477@gmail.com,M,50,"$80,000 - $120,000",Madison Square,Y,N,N,,I think it is more unsafe than taxis
+emailofnewyorker+398@gmail.com,M,72,"$80,000 - $120,000",NoHo,Y,Y,Y,15,
+emailofnewyorker+453@gmail.com,F,21,"$40,001 - $80,000",Upper East Side,Y,N,N,,My commute is already straightforward
+emailofnewyorker+282@gmail.com,F,22,"$40,001 - $80,000",Midtown,Y,Y,Y,24,
+emailofnewyorker+163@gmail.com,F,69,"$20,001 - $40,000",Battery Park City,Y,Y,Y,25,
+emailofnewyorker+448@gmail.com,F,76,"$40,001 - $80,000",St. Nicholas Historic District (Central Harlem),Y,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+494@gmail.com,F,23,"$80,000 - $120,000",West Harlem,Y,N,N,,I think it is more unsafe than taxis
+emailofnewyorker+498@gmail.com,M,20,"$80,000 - $120,000",Theater District,Y,Y,N,,Wouldn't trust the person flying it
+emailofnewyorker+444@gmail.com,F,28,"$20,001 - $40,000",Hell's Kitchen,Y,N,N,,It's dangerous
+emailofnewyorker+179@gmail.com,M,34,"$20,001 - $40,000",Midtown East,Y,Y,Y,9,
+emailofnewyorker+20@gmail.com,M,59,"> $200,000",Battery Park City,Y,Y,Y,30,
+emailofnewyorker+351@gmail.com,F,36,"$80,000 - $120,000",Little Australia,Y,Y,Y,19,
+emailofnewyorker+399@gmail.com,M,31,"$80,000 - $120,000",Murray Hill ,Y,N,Y,31,
+emailofnewyorker+423@gmail.com,M,65,"$120,000 - $200,000",Diamond District,Y,Y,N,,My commute is already straightforward
+emailofnewyorker+115@gmail.com,F,73,"$120,000 - $200,000",Tenderloin,N,N,Y,22,
+emailofnewyorker+103@gmail.com,F,25,"$120,000 - $200,000",Sugar Hill (Central Harlem),Y,Y,Y,24,
+emailofnewyorker+108@gmail.com,F,47,"$120,000 - $200,000",Alphabet City and Loisaida,Y,N,Y,31,
+emailofnewyorker+81@gmail.com,F,33,"$120,000 - $200,000",Diamond District,N,N,Y,41,
+emailofnewyorker+40@gmail.com,F,43,"> $200,000",Little Syria,Y,Y,Y,31,
+emailofnewyorker+436@gmail.com,M,48,"$20,001 - $40,000",NoHo,Y,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+415@gmail.com,F,61,"> $200,000",Downtown Manhattan,Y,Y,N,,It would be too expensive
+emailofnewyorker+136@gmail.com,F,36,"$120,000 - $200,000",Midtown West,Y,N,Y,26,
+emailofnewyorker+463@gmail.com,F,30,"$40,001 - $80,000",Sutton Place,Y,Y,N,,It would be too expensive
+emailofnewyorker+323@gmail.com,M,66,"$80,000 - $120,000",Hell's Kitchen,Y,Y,Y,24,
+emailofnewyorker+320@gmail.com,M,27,"$80,000 - $120,000",Manhattanville,Y,Y,Y,17,
+emailofnewyorker+291@gmail.com,F,57,"$40,001 - $80,000",Garment District,Y,Y,Y,10,
+emailofnewyorker+331@gmail.com,F,56,"$80,000 - $120,000",Herald Square,Y,Y,Y,15,
+emailofnewyorker+462@gmail.com,M,21,"$40,001 - $80,000",Cooperative Village,Y,N,N,,It would be too expensive
+emailofnewyorker+50@gmail.com,F,43,"$0 - $20,000",Lincoln Square,N,Y,Y,11,
+emailofnewyorker+441@gmail.com,F,61,"$20,001 - $40,000",Inwood,Y,N,N,,Not worth the extra money
+emailofnewyorker+245@gmail.com,M,59,"$40,001 - $80,000",Carnegie Hill,Y,Y,Y,18,
+emailofnewyorker+181@gmail.com,M,43,"$20,001 - $40,000",Tudor City,Y,Y,Y,23,
+emailofnewyorker+419@gmail.com,M,38,"$0 - $20,000",Madison Square,Y,Y,N,,Wouldn't trust the person flying it
+emailofnewyorker+250@gmail.com,M,70,"$40,001 - $80,000",Fort George,Y,N,Y,23,
+emailofnewyorker+328@gmail.com,F,61,"$80,000 - $120,000",Turtle Bay,N,Y,Y,16,
+emailofnewyorker+340@gmail.com,M,22,"$80,000 - $120,000",East Harlem (Spanish Harlem),Y,Y,Y,16,
+emailofnewyorker+385@gmail.com,M,24,"$80,000 - $120,000",Little Italy,Y,Y,Y,24,
+emailofnewyorker+390@gmail.com,M,62,"$80,000 - $120,000",Midtown,N,Y,Y,18,
+emailofnewyorker+347@gmail.com,F,58,"$80,000 - $120,000",St. Nicholas Historic District (Central Harlem),Y,Y,Y,26,
+emailofnewyorker+97@gmail.com,M,50,"$120,000 - $200,000",Garment District,Y,Y,Y,42,
+emailofnewyorker+357@gmail.com,F,74,"$80,000 - $120,000",Madison Square,Y,N,Y,27,
+emailofnewyorker+430@gmail.com,M,50,"$120,000 - $200,000",Times Square,Y,N,N,,I think it is more unsafe than taxis
+emailofnewyorker+345@gmail.com,F,25,"$80,000 - $120,000",Sugar Hill (Central Harlem),Y,Y,Y,23,
+emailofnewyorker+4@gmail.com,F,71,"> $200,000",Battery Park City,N,Y,Y,37,
+emailofnewyorker+442@gmail.com,F,36,"$20,001 - $40,000",Sutton Place,Y,N,N,,Wouldn't trust the person flying it
+emailofnewyorker+416@gmail.com,M,75,"$0 - $20,000",South Street Seaport Historical District,Y,N,N,,It's unsafe
+emailofnewyorker+492@gmail.com,F,20,"$80,000 - $120,000",Midtown East,Y,N,N,,The skies would get just as crowded as the streets
+emailofnewyorker+211@gmail.com,F,73,"$40,001 - $80,000",Columbus Circle,Y,Y,Y,14,
+emailofnewyorker+77@gmail.com,M,21,"$120,000 - $200,000",Turtle Bay,Y,N,Y,39,
+emailofnewyorker+371@gmail.com,M,47,"$80,000 - $120,000",Upper East Side,Y,Y,Y,16,
+emailofnewyorker+203@gmail.com,F,41,"$40,001 - $80,000",St. Nicholas Historic District (Central Harlem),Y,Y,Y,25,
+emailofnewyorker+421@gmail.com,F,43,"$120,000 - $200,000",Central Harlem,Y,N,N,,It would be too expensive
+emailofnewyorker+490@gmail.com,F,51,"$80,000 - $120,000",Midtown,Y,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+417@gmail.com,F,31,"$0 - $20,000",Koreatown,Y,Y,N,,The skies would get just as crowded as the streets
+emailofnewyorker+156@gmail.com,F,60,"$20,001 - $40,000",Hell's Kitchen,N,Y,Y,9,
+emailofnewyorker+212@gmail.com,M,19,"$40,001 - $80,000",Civic Center,Y,Y,Y,20,
+emailofnewyorker+110@gmail.com,F,66,"$120,000 - $200,000",Upper Manhattan,Y,Y,Y,26,
+emailofnewyorker+271@gmail.com,F,56,"$40,001 - $80,000",Little Syria,Y,Y,Y,14,
+emailofnewyorker+153@gmail.com,F,73,"$20,001 - $40,000",Civic Center,Y,Y,Y,9,
+emailofnewyorker+142@gmail.com,F,70,"$120,000 - $200,000",Columbus Circle,N,Y,Y,41,
+emailofnewyorker+445@gmail.com,F,67,"$20,001 - $40,000",Garment District,Y,N,N,,It would be too expensive
+emailofnewyorker+65@gmail.com,M,56,"$120,000 - $200,000",Rockefeller Center,Y,N,Y,26,
+emailofnewyorker+132@gmail.com,F,48,"$120,000 - $200,000",Greenwich Village,N,Y,Y,38,
+emailofnewyorker+171@gmail.com,M,44,"$20,001 - $40,000",Morningside Heights,N,Y,Y,10,
+emailofnewyorker+262@gmail.com,F,44,"$40,001 - $80,000",Bowery,Y,Y,Y,17,
+emailofnewyorker+128@gmail.com,M,22,"$120,000 - $200,000",Morningside Heights,Y,Y,Y,35,
+emailofnewyorker+306@gmail.com,F,63,"$40,001 - $80,000",Washington Heights,Y,Y,Y,9,
+emailofnewyorker+308@gmail.com,M,44,"$80,000 - $120,000",Battery Park City,Y,N,Y,15,
+emailofnewyorker+332@gmail.com,F,40,"$80,000 - $120,000",Marble Hill,Y,N,Y,20,
+emailofnewyorker+64@gmail.com,F,70,"$120,000 - $200,000",Five Points ,Y,Y,Y,35,
+emailofnewyorker+193@gmail.com,F,74,"$20,001 - $40,000",Civic Center,N,Y,Y,17,
+emailofnewyorker+428@gmail.com,M,33,"$120,000 - $200,000",Yorkville,Y,Y,N,,The skies would get just as crowded as the streets
+emailofnewyorker+57@gmail.com,M,43,"$0 - $20,000",Harlem,N,Y,Y,11,
+emailofnewyorker+99@gmail.com,F,29,"$120,000 - $200,000",NoHo,N,Y,Y,26,
+emailofnewyorker+23@gmail.com,F,33,"> $200,000",Battery Park City,N,Y,Y,42,
+emailofnewyorker+479@gmail.com,M,33,"$80,000 - $120,000",Diamond District,N,Y,N,,The skies would get just as crowded as the streets
+emailofnewyorker+123@gmail.com,F,61,"$120,000 - $200,000",Herald Square,Y,Y,Y,38,
+emailofnewyorker+275@gmail.com,M,50,"$40,001 - $80,000",Turtle Bay,Y,N,Y,16,
+emailofnewyorker+353@gmail.com,F,32,"$80,000 - $120,000",Herald Square,Y,N,Y,17,
+emailofnewyorker+451@gmail.com,F,35,"$40,001 - $80,000","Manhattan Valley, Bloomingdale District",Y,N,N,,Wouldn't trust the person flying it
+emailofnewyorker+435@gmail.com,F,41,"$20,001 - $40,000",Diamond District,N,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+238@gmail.com,M,45,"$40,001 - $80,000",Financial District,Y,N,Y,18,
+emailofnewyorker+120@gmail.com,F,59,"$120,000 - $200,000",Lower East Side,Y,Y,Y,28,
+emailofnewyorker+190@gmail.com,M,27,"$20,001 - $40,000",Diamond District,Y,N,Y,13,
+emailofnewyorker+408@gmail.com,M,47,"> $200,000",Battery Park City,Y,N,N,,My commute is already straightforward
+emailofnewyorker+425@gmail.com,F,57,"$120,000 - $200,000",Civic Center,Y,N,N,,It's unsafe
+emailofnewyorker+124@gmail.com,F,25,"$120,000 - $200,000",Nolita,N,Y,Y,34,
+emailofnewyorker+10@gmail.com,F,18,"> $200,000",Midtown East,Y,N,Y,40,
+emailofnewyorker+499@gmail.com,F,23,"$80,000 - $120,000",West Harlem,Y,N,N,,My commute is fairly efficient
+emailofnewyorker+341@gmail.com,F,35,"$80,000 - $120,000",Cooperative Village,Y,Y,Y,22,
+emailofnewyorker+197@gmail.com,F,27,"$20,001 - $40,000",Lenox Hill,Y,Y,Y,24,
+emailofnewyorker+327@gmail.com,F,71,"$80,000 - $120,000",Hell's Kitchen,Y,Y,Y,14,
+emailofnewyorker+393@gmail.com,F,61,"$80,000 - $120,000",Theater District,Y,N,Y,30,
+emailofnewyorker+279@gmail.com,M,42,"$40,001 - $80,000",Nolita,N,Y,Y,11,
+emailofnewyorker+87@gmail.com,M,70,"$120,000 - $200,000",Downtown Manhattan,Y,Y,Y,28,
+emailofnewyorker+454@gmail.com,M,27,"$40,001 - $80,000",Midtown East,Y,Y,N,,Not worth the extra money
+emailofnewyorker+352@gmail.com,F,45,"$80,000 - $120,000",Midtown,Y,Y,Y,21,
+emailofnewyorker+491@gmail.com,F,67,"$80,000 - $120,000",Tribeca,Y,N,N,,Not worth the extra money
+emailofnewyorker+105@gmail.com,F,56,"$120,000 - $200,000",Hell's Kitchen,Y,N,Y,35,
+emailofnewyorker+269@gmail.com,F,26,"$40,001 - $80,000",Hudson Heights,Y,Y,Y,14,
+emailofnewyorker+231@gmail.com,M,75,"$40,001 - $80,000",Hudson Heights,N,N,Y,18,
+emailofnewyorker+149@gmail.com,F,63,"$20,001 - $40,000",Rockefeller Center,N,Y,Y,23,
+emailofnewyorker+349@gmail.com,F,31,"$80,000 - $120,000",Cooperative Village,Y,N,Y,30,
+emailofnewyorker+358@gmail.com,F,53,"$80,000 - $120,000",Lenox Hill,N,Y,Y,29,
+emailofnewyorker+339@gmail.com,M,23,"$80,000 - $120,000",Diamond District,Y,Y,Y,24,
+emailofnewyorker+68@gmail.com,F,62,"$120,000 - $200,000",Herald Square,Y,Y,Y,29,
+emailofnewyorker+116@gmail.com,F,43,"$120,000 - $200,000",Midtown East,Y,Y,Y,34,
+emailofnewyorker+44@gmail.com,F,65,"$0 - $20,000",Central Harlem,Y,N,Y,11,
+emailofnewyorker+101@gmail.com,M,63,"$120,000 - $200,000",Turtle Bay,Y,N,Y,28,
+emailofnewyorker+187@gmail.com,M,68,"$20,001 - $40,000",Murray Hill ,Y,Y,Y,19,
+emailofnewyorker+265@gmail.com,M,49,"$40,001 - $80,000",Hudson Heights,Y,Y,Y,11,
+emailofnewyorker+249@gmail.com,M,73,"$40,001 - $80,000",Midtown East,Y,Y,Y,12,
+emailofnewyorker+30@gmail.com,F,23,"> $200,000",Little Germany,Y,N,Y,32,
+emailofnewyorker+92@gmail.com,M,68,"$120,000 - $200,000",East Harlem (Spanish Harlem),Y,Y,Y,41,
+emailofnewyorker+374@gmail.com,F,51,"$80,000 - $120,000",Fort George,Y,N,Y,30,
+emailofnewyorker+314@gmail.com,M,76,"$80,000 - $120,000",Midtown East,Y,N,Y,29,
+emailofnewyorker+200@gmail.com,F,34,"$20,001 - $40,000",Astor Row (Central Harlem),Y,N,Y,17,
+emailofnewyorker+106@gmail.com,F,24,"$120,000 - $200,000",Downtown Manhattan,Y,Y,Y,36,
+emailofnewyorker+497@gmail.com,F,37,"$80,000 - $120,000",Inwood,Y,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+33@gmail.com,F,69,"> $200,000",Garment District,Y,Y,Y,27,
+emailofnewyorker+297@gmail.com,F,21,"$40,001 - $80,000",Le Petit Senegal (Little Senegal),N,Y,Y,16,
+emailofnewyorker+72@gmail.com,M,45,"$120,000 - $200,000",Harlem,Y,N,Y,42,
+emailofnewyorker+19@gmail.com,F,70,"> $200,000",Financial District,Y,Y,Y,38,
+emailofnewyorker+188@gmail.com,F,29,"$20,001 - $40,000",Tribeca,Y,Y,Y,14,
+emailofnewyorker+338@gmail.com,M,64,"$80,000 - $120,000",Sutton Place,Y,Y,Y,31,
+emailofnewyorker+407@gmail.com,M,24,"> $200,000",Little Italy,Y,Y,N,,Not worth the extra money
+emailofnewyorker+42@gmail.com,M,42,"> $200,000",Battery Park City,N,Y,Y,41,
+emailofnewyorker+228@gmail.com,M,43,"$40,001 - $80,000",Little Italy,Y,Y,Y,24,
+emailofnewyorker+267@gmail.com,M,68,"$40,001 - $80,000",South Street Seaport Historical District,Y,Y,Y,18,
+emailofnewyorker+186@gmail.com,F,33,"$20,001 - $40,000",Radio Row,Y,N,Y,13,
+emailofnewyorker+337@gmail.com,F,53,"$80,000 - $120,000",Murray Hill ,N,Y,Y,27,
+emailofnewyorker+182@gmail.com,F,23,"$20,001 - $40,000",Cooperative Village,Y,Y,Y,7,
+emailofnewyorker+324@gmail.com,M,32,"$80,000 - $120,000",Morningside Heights,Y,Y,Y,26,
+emailofnewyorker+471@gmail.com,F,18,"$40,001 - $80,000",Cooperative Village,Y,N,N,,I think it is more unsafe than taxis
+emailofnewyorker+162@gmail.com,M,46,"$20,001 - $40,000",Hudson Yards,Y,Y,Y,19,
+emailofnewyorker+466@gmail.com,M,74,"$40,001 - $80,000",Little Syria,N,Y,N,,It would be too expensive
+emailofnewyorker+214@gmail.com,M,18,"$40,001 - $80,000",Koreatown,Y,Y,Y,20,
+emailofnewyorker+207@gmail.com,F,67,"$40,001 - $80,000",Le Petit Senegal (Little Senegal),Y,N,Y,20,
+emailofnewyorker+397@gmail.com,M,34,"$80,000 - $120,000",Columbus Circle,Y,N,Y,21,
+emailofnewyorker+155@gmail.com,M,50,"$20,001 - $40,000",Midtown,Y,N,Y,18,
+emailofnewyorker+392@gmail.com,M,24,"$80,000 - $120,000",Chinatown,N,Y,Y,15,
+emailofnewyorker+21@gmail.com,F,54,"> $200,000",Financial District,Y,N,Y,44,
+emailofnewyorker+141@gmail.com,F,48,"$120,000 - $200,000",Inwood,Y,Y,Y,34,
+emailofnewyorker+121@gmail.com,F,51,"$120,000 - $200,000",Morningside Heights,N,Y,Y,28,
+emailofnewyorker+379@gmail.com,M,55,"$80,000 - $120,000",Radio Row,Y,Y,Y,14,
+emailofnewyorker+183@gmail.com,F,70,"$20,001 - $40,000",Garment District,N,Y,Y,6,
+emailofnewyorker+119@gmail.com,M,68,"$120,000 - $200,000",South Street Seaport Historical District,N,Y,Y,26,
+emailofnewyorker+287@gmail.com,M,34,"$40,001 - $80,000",Chinatown,N,Y,Y,11,
+emailofnewyorker+122@gmail.com,F,68,"$120,000 - $200,000",Upper East Side,Y,N,Y,26,
+emailofnewyorker+220@gmail.com,M,35,"$40,001 - $80,000",Tenderloin,Y,N,Y,11,
+emailofnewyorker+79@gmail.com,F,57,"$120,000 - $200,000",Koreatown,Y,N,Y,24,
+emailofnewyorker+169@gmail.com,M,74,"$20,001 - $40,000",SoHo,Y,Y,Y,17,
+emailofnewyorker+478@gmail.com,F,64,"$80,000 - $120,000",Upper West Side,Y,N,N,,Wouldn't trust the person flying it
+emailofnewyorker+427@gmail.com,F,68,"$120,000 - $200,000",Murray Hill ,Y,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+192@gmail.com,M,68,"$20,001 - $40,000",Little Germany,Y,N,Y,17,
+emailofnewyorker+178@gmail.com,F,19,"$20,001 - $40,000",St. Nicholas Historic District (Central Harlem),Y,N,Y,22,
+emailofnewyorker+413@gmail.com,M,26,"> $200,000",Battery Park City,Y,Y,N,,It would be too expensive
+emailofnewyorker+118@gmail.com,F,72,"$120,000 - $200,000",SoHo,Y,Y,Y,25,
+emailofnewyorker+107@gmail.com,F,21,"$120,000 - $200,000",Sugar Hill (Central Harlem),Y,Y,Y,31,
+emailofnewyorker+148@gmail.com,F,76,"$20,001 - $40,000",Upper East Side,Y,N,Y,14,
+emailofnewyorker+256@gmail.com,F,49,"$40,001 - $80,000",Diamond District,Y,Y,Y,24,
+emailofnewyorker+274@gmail.com,M,32,"$40,001 - $80,000",Theater District,N,Y,Y,17,
+emailofnewyorker+15@gmail.com,M,68,"> $200,000",Columbus Circle,Y,Y,Y,44,
+emailofnewyorker+432@gmail.com,F,33,"$120,000 - $200,000",Rockefeller Center,Y,Y,N,,My commute is already straightforward
+emailofnewyorker+173@gmail.com,F,51,"$20,001 - $40,000",Hudson Yards,Y,Y,Y,8,
+emailofnewyorker+17@gmail.com,M,73,"> $200,000",Battery Park City,Y,N,Y,36,
+emailofnewyorker+230@gmail.com,M,59,"$40,001 - $80,000",Little Germany,Y,N,Y,21,
+emailofnewyorker+468@gmail.com,F,41,"$40,001 - $80,000",Yorkville,Y,N,N,,It's dangerous
+emailofnewyorker+177@gmail.com,M,71,"$20,001 - $40,000",Central Harlem,Y,N,Y,15,
+emailofnewyorker+16@gmail.com,M,56,"> $200,000",Madison Square,Y,N,Y,37,
+emailofnewyorker+241@gmail.com,M,41,"$40,001 - $80,000",Turtle Bay,N,Y,Y,23,
+emailofnewyorker+45@gmail.com,F,27,"$0 - $20,000",Hell's Kitchen,N,Y,Y,7,
+emailofnewyorker+140@gmail.com,F,28,"$120,000 - $200,000",Upper Manhattan,Y,Y,Y,24,
+emailofnewyorker+372@gmail.com,M,29,"$80,000 - $120,000",Sutton Place,Y,Y,Y,16,
+emailofnewyorker+8@gmail.com,M,23,"> $200,000",Tribeca,Y,N,Y,38,
+emailofnewyorker+383@gmail.com,F,44,"$80,000 - $120,000","Manhattan Valley, Bloomingdale District",Y,N,Y,20,
+emailofnewyorker+400@gmail.com,M,27,"$80,000 - $120,000",Midtown,N,Y,Y,19,
+emailofnewyorker+484@gmail.com,F,36,"$80,000 - $120,000",Hamilton Heights,N,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+195@gmail.com,F,58,"$20,001 - $40,000",Turtle Bay,N,Y,Y,14,
+emailofnewyorker+91@gmail.com,F,21,"$120,000 - $200,000",Garment District,Y,N,Y,37,
+emailofnewyorker+292@gmail.com,F,65,"$40,001 - $80,000",Two Bridges,N,N,Y,24,
+emailofnewyorker+411@gmail.com,F,22,"> $200,000",Battery Park City,Y,N,N,,It would be too expensive
+emailofnewyorker+202@gmail.com,M,41,"$40,001 - $80,000",Turtle Bay,Y,Y,Y,11,
+emailofnewyorker+1@gmail.com,F,29,"> $200,000",Theater District,Y,Y,Y,37,
+emailofnewyorker+307@gmail.com,M,36,"$80,000 - $120,000",Midtown,Y,N,Y,19,
+emailofnewyorker+420@gmail.com,F,64,"$0 - $20,000",Harlem,Y,N,N,,I think it's more dangerous
+emailofnewyorker+247@gmail.com,F,47,"$40,001 - $80,000",Harlem,N,Y,Y,19,
+emailofnewyorker+254@gmail.com,F,40,"$40,001 - $80,000",Alphabet City and Loisaida,Y,N,Y,17,
+emailofnewyorker+387@gmail.com,M,36,"$80,000 - $120,000",Hudson Heights,Y,N,Y,17,
+emailofnewyorker+219@gmail.com,M,48,"$40,001 - $80,000",Chinatown,Y,Y,Y,27,
+emailofnewyorker+213@gmail.com,F,27,"$40,001 - $80,000",Washington Heights,Y,Y,Y,11,
+emailofnewyorker+205@gmail.com,M,56,"$40,001 - $80,000",Sutton Place,Y,Y,Y,19,
+emailofnewyorker+251@gmail.com,M,52,"$40,001 - $80,000",Garment District,Y,N,Y,23,
+emailofnewyorker+151@gmail.com,M,40,"$20,001 - $40,000",Bowery,Y,N,Y,25,
+emailofnewyorker+447@gmail.com,F,68,"$20,001 - $40,000",Lower East Side,Y,N,N,,It would be too expensive
+emailofnewyorker+18@gmail.com,M,43,"> $200,000",Tribeca,Y,N,Y,32,
+emailofnewyorker+229@gmail.com,F,48,"$40,001 - $80,000",Manhattanville,N,Y,Y,18,
+emailofnewyorker+293@gmail.com,M,32,"$40,001 - $80,000",Times Square,Y,Y,Y,9,
+emailofnewyorker+157@gmail.com,F,27,"$20,001 - $40,000",Greenwich Village,Y,N,Y,9,
+emailofnewyorker+355@gmail.com,M,35,"$80,000 - $120,000",Midtown West,Y,N,Y,29,
+emailofnewyorker+90@gmail.com,F,27,"$120,000 - $200,000",Midtown East,N,Y,Y,34,
+emailofnewyorker+481@gmail.com,F,45,"$80,000 - $120,000",Lenox Hill,Y,Y,N,,It would be too expensive
+emailofnewyorker+36@gmail.com,F,71,"> $200,000",Koreatown,Y,N,Y,27,
+emailofnewyorker+242@gmail.com,M,66,"$40,001 - $80,000",Times Square,N,Y,Y,23,
+emailofnewyorker+395@gmail.com,M,57,"$80,000 - $120,000",Murray Hill ,Y,Y,Y,15,
+emailofnewyorker+422@gmail.com,M,34,"$120,000 - $200,000",Midtown West,N,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+100@gmail.com,F,20,"$120,000 - $200,000",Tudor City,Y,N,Y,30,
+emailofnewyorker+7@gmail.com,M,30,"> $200,000",Hamilton Heights,Y,N,Y,43,
+emailofnewyorker+296@gmail.com,F,76,"$40,001 - $80,000",Hudson Yards,Y,Y,Y,24,
+emailofnewyorker+488@gmail.com,F,43,"$80,000 - $120,000",Hudson Yards,Y,Y,N,,My commute is already straightforward
+emailofnewyorker+283@gmail.com,M,41,"$40,001 - $80,000",Little Germany,Y,N,Y,18,
+emailofnewyorker+70@gmail.com,F,30,"$120,000 - $200,000",Madison Square,N,Y,Y,39,
+emailofnewyorker+344@gmail.com,M,57,"$80,000 - $120,000","Manhattan Valley, Bloomingdale District",Y,N,Y,17,
+emailofnewyorker+268@gmail.com,M,27,"$40,001 - $80,000",Little Brazil,Y,Y,Y,11,
+emailofnewyorker+61@gmail.com,M,49,"$0 - $20,000",Astor Row (Central Harlem),Y,N,Y,9,
+emailofnewyorker+500@gmail.com,,,,Tribeca,,,,,It's unsafe
+emailofnewyorker+348@gmail.com,M,22,"$80,000 - $120,000",Downtown Manhattan,N,Y,Y,17,
+emailofnewyorker+170@gmail.com,F,27,"$20,001 - $40,000",Morningside Heights,Y,Y,Y,13,
+emailofnewyorker+248@gmail.com,M,52,"$40,001 - $80,000",Yorkville,Y,Y,Y,18,
+emailofnewyorker+185@gmail.com,F,71,"$20,001 - $40,000",Midtown West,Y,Y,Y,15,
+emailofnewyorker+495@gmail.com,F,34,"$80,000 - $120,000",Turtle Bay,Y,Y,N,,It's unsafe
+emailofnewyorker+114@gmail.com,F,64,"$120,000 - $200,000",Central Harlem,Y,Y,Y,22,
+emailofnewyorker+253@gmail.com,F,67,"$40,001 - $80,000",Tribeca,Y,Y,Y,11,
+emailofnewyorker+49@gmail.com,M,43,"$0 - $20,000",East Harlem (Spanish Harlem),Y,N,Y,15,
+emailofnewyorker+273@gmail.com,M,39,"$40,001 - $80,000",Hudson Yards,N,Y,Y,16,
+emailofnewyorker+280@gmail.com,F,48,"$40,001 - $80,000",Marble Hill,Y,Y,Y,17,
+emailofnewyorker+335@gmail.com,F,26,"$80,000 - $120,000",Five Points ,Y,N,Y,25,
+emailofnewyorker+434@gmail.com,F,51,"$120,000 - $200,000",Hamilton Heights,N,Y,N,,It's dangerous
+emailofnewyorker+39@gmail.com,F,22,"> $200,000",West Village,Y,N,Y,38,
+emailofnewyorker+318@gmail.com,F,51,"$80,000 - $120,000",Madison Square,Y,N,Y,26,
+emailofnewyorker+78@gmail.com,M,28,"$120,000 - $200,000",Upper East Side,Y,N,Y,42,
+emailofnewyorker+325@gmail.com,F,66,"$80,000 - $120,000",Carnegie Hill,Y,Y,Y,22,
+emailofnewyorker+69@gmail.com,F,70,"$120,000 - $200,000",Lincoln Square,N,Y,Y,37,
+emailofnewyorker+240@gmail.com,F,29,"$40,001 - $80,000",East Village,Y,N,Y,12,
+emailofnewyorker+32@gmail.com,M,67,"> $200,000",Little Brazil,Y,Y,Y,28,
+emailofnewyorker+386@gmail.com,F,63,"$80,000 - $120,000",SoHo,Y,N,Y,18,
+emailofnewyorker+376@gmail.com,F,71,"$80,000 - $120,000",Battery Park City,Y,N,Y,27,
+emailofnewyorker+285@gmail.com,F,64,"$40,001 - $80,000",Koreatown,N,N,Y,21,
+emailofnewyorker+235@gmail.com,F,56,"$40,001 - $80,000",Rockefeller Center,Y,Y,Y,9,
+emailofnewyorker+402@gmail.com,F,55,"> $200,000",Turtle Bay,Y,Y,N,,Wouldn't trust the person flying it
+emailofnewyorker+281@gmail.com,F,39,"$40,001 - $80,000",South Street Seaport Historical District,N,N,Y,14,
+emailofnewyorker+206@gmail.com,F,24,"$40,001 - $80,000",Hell's Kitchen,Y,Y,Y,26,
+emailofnewyorker+243@gmail.com,M,58,"$40,001 - $80,000",Times Square,Y,N,Y,10,
+emailofnewyorker+431@gmail.com,F,29,"$120,000 - $200,000",Alphabet City and Loisaida,N,Y,N,,My commute is fairly efficient
+emailofnewyorker+216@gmail.com,F,62,"$40,001 - $80,000",Lincoln Square,Y,Y,Y,19,
+emailofnewyorker+469@gmail.com,M,54,"$40,001 - $80,000",Times Square,Y,Y,N,,It's unsafe
+emailofnewyorker+215@gmail.com,F,51,"$40,001 - $80,000",Little Brazil,Y,N,Y,25,
+emailofnewyorker+305@gmail.com,M,44,"$40,001 - $80,000",Manhattanville,Y,N,Y,19,
+emailofnewyorker+127@gmail.com,F,26,"$120,000 - $200,000",Bowery,N,Y,Y,41,
+emailofnewyorker+5@gmail.com,F,61,"> $200,000",Financial District,Y,Y,Y,46,
+emailofnewyorker+315@gmail.com,F,50,"$80,000 - $120,000",Tenderloin,Y,Y,Y,18,
+emailofnewyorker+102@gmail.com,F,66,"$120,000 - $200,000",Columbus Circle,Y,N,Y,31,
+emailofnewyorker+76@gmail.com,F,59,"$120,000 - $200,000",Sutton Place,Y,Y,Y,21,
+emailofnewyorker+38@gmail.com,F,63,"> $200,000",Tribeca,N,Y,Y,25,
+emailofnewyorker+368@gmail.com,M,54,"$80,000 - $120,000",Rockefeller Center,Y,N,Y,24,
+emailofnewyorker+277@gmail.com,M,42,"$40,001 - $80,000",Tenderloin,Y,Y,Y,19,
+emailofnewyorker+401@gmail.com,F,71,"> $200,000",West Harlem,Y,N,N,,It's dangerous
+emailofnewyorker+129@gmail.com,F,43,"$120,000 - $200,000",Hudson Heights,Y,Y,Y,36,
+emailofnewyorker+483@gmail.com,M,40,"$80,000 - $120,000",Herald Square,Y,N,N,,I think it's more dangerous
+emailofnewyorker+438@gmail.com,F,65,"$20,001 - $40,000",Columbus Circle,Y,Y,N,,I think it's more dangerous
+emailofnewyorker+452@gmail.com,F,68,"$40,001 - $80,000",Upper East Side,Y,N,N,,My commute is already straightforward
+emailofnewyorker+252@gmail.com,M,22,"$40,001 - $80,000",Herald Square,Y,Y,Y,15,
+emailofnewyorker+473@gmail.com,F,33,"$40,001 - $80,000",Tenderloin,Y,Y,N,,I think it's more dangerous
+emailofnewyorker+284@gmail.com,F,42,"$40,001 - $80,000",East Village,Y,N,Y,12,
+emailofnewyorker+160@gmail.com,F,74,"$20,001 - $40,000",East Village,Y,Y,Y,21,
+emailofnewyorker+217@gmail.com,M,32,"$40,001 - $80,000",Hudson Yards,Y,Y,Y,18,
+emailofnewyorker+117@gmail.com,M,44,"$120,000 - $200,000",Lenox Hill,Y,N,Y,31,
+emailofnewyorker+310@gmail.com,M,61,"$80,000 - $120,000",Garment District,Y,Y,Y,31,
+emailofnewyorker+465@gmail.com,F,70,"$40,001 - $80,000",West Harlem,Y,Y,N,,Wouldn't trust the person flying it
+emailofnewyorker+24@gmail.com,F,18,"> $200,000",Financial District,N,Y,Y,34,
+emailofnewyorker+257@gmail.com,M,67,"$40,001 - $80,000",Le Petit Senegal (Little Senegal),Y,Y,Y,27,
+emailofnewyorker+461@gmail.com,M,47,"$40,001 - $80,000",East Harlem (Spanish Harlem),Y,N,N,,It would be too expensive
+emailofnewyorker+9@gmail.com,M,68,"> $200,000",Tribeca,Y,Y,Y,39,
+emailofnewyorker+474@gmail.com,F,20,"$40,001 - $80,000",Little Syria,Y,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+204@gmail.com,M,38,"$40,001 - $80,000",Herald Square,Y,N,Y,14,
+emailofnewyorker+236@gmail.com,F,40,"$40,001 - $80,000",Koreatown,Y,N,Y,22,
+emailofnewyorker+12@gmail.com,M,39,"> $200,000",Battery Park City,Y,Y,Y,44,
+emailofnewyorker+145@gmail.com,M,48,"$120,000 - $200,000",Murray Hill ,Y,Y,Y,37,
+emailofnewyorker+35@gmail.com,F,45,"> $200,000",Sutton Place,N,Y,Y,38,
+emailofnewyorker+146@gmail.com,F,75,"$120,000 - $200,000",Sugar Hill (Central Harlem),Y,N,Y,21,
+emailofnewyorker+464@gmail.com,M,37,"$40,001 - $80,000",West Village,Y,N,N,,It would be too expensive
+emailofnewyorker+487@gmail.com,F,52,"$80,000 - $120,000",Hudson Yards,N,Y,N,,I think it is more unsafe than taxis
+emailofnewyorker+66@gmail.com,M,46,"$120,000 - $200,000",Financial District,N,Y,Y,33,
+emailofnewyorker+46@gmail.com,F,21,"$0 - $20,000",East Harlem (Spanish Harlem),N,Y,Y,11,
+emailofnewyorker+489@gmail.com,F,56,"$80,000 - $120,000",Central Harlem,Y,Y,N,,It's unsafe
+emailofnewyorker+130@gmail.com,F,65,"$120,000 - $200,000",Midtown West,Y,N,Y,29,
+emailofnewyorker+93@gmail.com,F,63,"$120,000 - $200,000",Manhattanville,Y,N,Y,26,
+emailofnewyorker+225@gmail.com,F,45,"$40,001 - $80,000",Theater District,Y,Y,Y,11,
+emailofnewyorker+2@gmail.com,F,44,"> $200,000",Tribeca,Y,N,Y,27,
+emailofnewyorker+321@gmail.com,F,48,"$80,000 - $120,000",West Harlem,Y,Y,Y,23,
+emailofnewyorker+161@gmail.com,F,32,"$20,001 - $40,000",Murray Hill ,Y,N,Y,15,
+emailofnewyorker+164@gmail.com,F,59,"$20,001 - $40,000",Lincoln Square,Y,Y,Y,22,
+emailofnewyorker+354@gmail.com,F,70,"$80,000 - $120,000",Hudson Heights,Y,N,Y,23,
+emailofnewyorker+52@gmail.com,F,76,"$0 - $20,000",Times Square,Y,N,Y,5,
+emailofnewyorker+126@gmail.com,M,19,"$120,000 - $200,000",Midtown West,Y,N,Y,37,
+emailofnewyorker+373@gmail.com,M,19,"$80,000 - $120,000",Little Australia,Y,Y,Y,27,
+emailofnewyorker+278@gmail.com,F,49,"$40,001 - $80,000",Hamilton Heights,Y,Y,Y,13,
+emailofnewyorker+98@gmail.com,F,18,"$120,000 - $200,000",Rockefeller Center,Y,N,Y,38,
+emailofnewyorker+51@gmail.com,F,47,"$0 - $20,000",Midtown,Y,Y,Y,21,
+emailofnewyorker+246@gmail.com,F,41,"$40,001 - $80,000",Upper Manhattan,Y,N,Y,21,
+emailofnewyorker+404@gmail.com,M,21,"> $200,000",Tribeca,Y,N,N,,The skies would get just as crowded as the streets
+emailofnewyorker+476@gmail.com,F,37,"$80,000 - $120,000",Herald Square,N,N,N,,It's unsafe
+emailofnewyorker+437@gmail.com,F,55,"$20,001 - $40,000",Midtown,Y,N,N,,It's unsafe
+emailofnewyorker+364@gmail.com,F,58,"$80,000 - $120,000",Washington Heights,Y,N,Y,18,
+emailofnewyorker+232@gmail.com,M,41,"$40,001 - $80,000",Garment District,Y,Y,Y,17,
+emailofnewyorker+131@gmail.com,F,33,"$120,000 - $200,000",Tudor City,N,Y,Y,29,
+emailofnewyorker+13@gmail.com,F,43,"> $200,000",Midtown,Y,Y,Y,26,
+emailofnewyorker+470@gmail.com,M,33,"$40,001 - $80,000",Midtown,Y,Y,N,,Not worth the extra money
+emailofnewyorker+258@gmail.com,M,36,"$40,001 - $80,000",Madison Square,Y,Y,Y,23,
+emailofnewyorker+359@gmail.com,F,76,"$80,000 - $120,000",Lincoln Square,Y,Y,Y,25,
+emailofnewyorker+158@gmail.com,F,60,"$20,001 - $40,000",Two Bridges,N,Y,Y,12,
+emailofnewyorker+53@gmail.com,F,57,"$0 - $20,000",Le Petit Senegal (Little Senegal),N,Y,Y,17,
+emailofnewyorker+316@gmail.com,M,65,"$80,000 - $120,000",Chinatown,Y,Y,Y,21,
+emailofnewyorker+6@gmail.com,M,18,"> $200,000",Battery Park City,N,Y,Y,34,
+emailofnewyorker+313@gmail.com,F,36,"$80,000 - $120,000","Marcus Garvey Park, Mount Morris Historical District",N,Y,Y,20,
+emailofnewyorker+75@gmail.com,F,41,"$120,000 - $200,000",Le Petit Senegal (Little Senegal),Y,Y,Y,39,
+emailofnewyorker+289@gmail.com,F,28,"$40,001 - $80,000",Little Syria,Y,Y,Y,12,
+emailofnewyorker+360@gmail.com,F,67,"$80,000 - $120,000",Columbus Circle,Y,N,Y,30,
+emailofnewyorker+165@gmail.com,M,57,"$20,001 - $40,000",Midtown West,Y,N,Y,12,
+emailofnewyorker+317@gmail.com,M,18,"$80,000 - $120,000",Tudor City,Y,N,Y,17,
+emailofnewyorker+227@gmail.com,F,21,"$40,001 - $80,000",West Village,Y,Y,Y,25,
+emailofnewyorker+330@gmail.com,F,50,"$80,000 - $120,000",Battery Park City,N,Y,Y,15,
+emailofnewyorker+25@gmail.com,F,66,"> $200,000",Tudor City,Y,N,Y,46,
+emailofnewyorker+311@gmail.com,M,22,"$80,000 - $120,000",Central Harlem,N,Y,Y,28,
+emailofnewyorker+166@gmail.com,F,31,"$20,001 - $40,000",Turtle Bay,Y,N,Y,8,
+emailofnewyorker+301@gmail.com,M,53,"$40,001 - $80,000",Tenderloin,N,Y,Y,22,
+emailofnewyorker+199@gmail.com,M,28,"$20,001 - $40,000",Upper West Side,Y,N,Y,10,
+emailofnewyorker+48@gmail.com,M,40,"$0 - $20,000",Tenderloin,Y,N,Y,8,
+emailofnewyorker+276@gmail.com,F,58,"$40,001 - $80,000",Lenox Hill,Y,N,Y,15,
+emailofnewyorker+154@gmail.com,M,58,"$20,001 - $40,000",Morningside Heights,N,Y,Y,14,
+emailofnewyorker+409@gmail.com,M,20,"> $200,000",Five Points ,Y,Y,N,,It's dangerous
+emailofnewyorker+486@gmail.com,F,72,"$80,000 - $120,000",Two Bridges,Y,Y,N,,Wouldn't trust the person flying it
+emailofnewyorker+381@gmail.com,M,47,"$80,000 - $120,000",Yorkville,Y,Y,Y,20,
+emailofnewyorker+299@gmail.com,M,31,"$40,001 - $80,000",Little Brazil,Y,N,Y,22,
+emailofnewyorker+239@gmail.com,M,73,"$40,001 - $80,000",Five Points ,Y,Y,Y,25,
+emailofnewyorker+264@gmail.com,M,21,"$40,001 - $80,000",Fort George,Y,N,Y,22,
+emailofnewyorker+224@gmail.com,M,35,"$40,001 - $80,000",Tudor City,Y,Y,Y,19,
+emailofnewyorker+303@gmail.com,F,72,"$40,001 - $80,000",Washington Heights,Y,Y,Y,25,
+emailofnewyorker+458@gmail.com,F,52,"$40,001 - $80,000",Herald Square,Y,Y,N,,Wouldn't trust the person flying it
+emailofnewyorker+43@gmail.com,F,20,"$0 - $20,000",Times Square,Y,N,Y,12,
+emailofnewyorker+396@gmail.com,M,32,"$80,000 - $120,000",Carnegie Hill,Y,N,Y,23,
+emailofnewyorker+334@gmail.com,F,64,"$80,000 - $120,000",East Village,Y,N,Y,29,
+emailofnewyorker+180@gmail.com,F,60,"$20,001 - $40,000",West Village,Y,Y,Y,19,
+emailofnewyorker+266@gmail.com,M,76,"$40,001 - $80,000",Hudson Yards,Y,Y,Y,23,
+emailofnewyorker+450@gmail.com,F,58,"$40,001 - $80,000",Garment District,Y,N,N,,I think it is more unsafe than taxis
+emailofnewyorker+403@gmail.com,M,51,"> $200,000",Tribeca,N,Y,N,,Not worth the extra money
+emailofnewyorker+189@gmail.com,F,61,"$20,001 - $40,000",Financial District,Y,Y,Y,16,
+emailofnewyorker+329@gmail.com,M,64,"$80,000 - $120,000",Battery Park City,Y,N,Y,31,
+emailofnewyorker+286@gmail.com,F,47,"$40,001 - $80,000",Alphabet City and Loisaida,Y,Y,Y,10,
+emailofnewyorker+460@gmail.com,F,72,"$40,001 - $80,000",Tenderloin,N,Y,N,,Not worth the extra money
+emailofnewyorker+55@gmail.com,F,49,"$0 - $20,000",Lincoln Square,Y,Y,Y,14,
+emailofnewyorker+261@gmail.com,F,67,"$40,001 - $80,000",Hell's Kitchen,Y,N,Y,27,
+emailofnewyorker+209@gmail.com,M,60,"$40,001 - $80,000",Hudson Yards,Y,N,Y,19,
+emailofnewyorker+223@gmail.com,F,52,"$40,001 - $80,000",Koreatown,N,Y,Y,9,
+emailofnewyorker+333@gmail.com,M,33,"$80,000 - $120,000",Upper Manhattan,Y,Y,Y,17,
+emailofnewyorker+83@gmail.com,M,30,"$120,000 - $200,000",Little Brazil,Y,N,Y,35,
+emailofnewyorker+482@gmail.com,M,22,"$80,000 - $120,000",Manhattanville,Y,Y,N,,It would be too expensive
+emailofnewyorker+366@gmail.com,F,60,"$80,000 - $120,000",Nolita,Y,N,Y,30,
+emailofnewyorker+62@gmail.com,M,71,"$0 - $20,000",Tudor City,Y,N,Y,7,
+emailofnewyorker+255@gmail.com,F,27,"$40,001 - $80,000",Murray Hill ,Y,Y,Y,17,
+emailofnewyorker+365@gmail.com,F,26,"$80,000 - $120,000",Tudor City,Y,N,Y,22,
+emailofnewyorker+152@gmail.com,F,36,"$20,001 - $40,000",Washington Heights,Y,N,Y,16,
+emailofnewyorker+27@gmail.com,F,23,"> $200,000",Battery Park City,Y,Y,Y,38,
+emailofnewyorker+95@gmail.com,F,28,"$120,000 - $200,000",Two Bridges,Y,N,Y,21,
+emailofnewyorker+233@gmail.com,F,18,"$40,001 - $80,000","Marcus Garvey Park, Mount Morris Historical District",Y,Y,Y,27,
+emailofnewyorker+143@gmail.com,F,46,"$120,000 - $200,000",Murray Hill ,Y,N,Y,21,
+emailofnewyorker+356@gmail.com,F,38,"$80,000 - $120,000",Marble Hill,Y,N,Y,23,
+emailofnewyorker+59@gmail.com,F,19,"$0 - $20,000",Five Points ,Y,N,Y,14,
+emailofnewyorker+11@gmail.com,M,20,"> $200,000",Financial District,Y,Y,Y,39,
+emailofnewyorker+29@gmail.com,M,48,"> $200,000",Bowery,Y,Y,Y,44,
+emailofnewyorker+433@gmail.com,F,64,"$120,000 - $200,000",Midtown,Y,Y,N,,Wouldn't trust the person flying it
+emailofnewyorker+150@gmail.com,F,55,"$20,001 - $40,000",Rockefeller Center,Y,Y,Y,23,
+emailofnewyorker+405@gmail.com,F,27,"> $200,000",Carnegie Hill,N,Y,N,,Not worth the extra money
+emailofnewyorker+41@gmail.com,F,35,"> $200,000",Financial District,Y,N,Y,45,
+emailofnewyorker+135@gmail.com,F,63,"$120,000 - $200,000",Diamond District,Y,N,Y,38,
+emailofnewyorker+440@gmail.com,M,20,"$20,001 - $40,000",Tenderloin,Y,Y,N,,Wouldn't trust the person flying it
+emailofnewyorker+88@gmail.com,M,44,"$120,000 - $200,000",Marble Hill,Y,Y,Y,25,
+emailofnewyorker+37@gmail.com,F,61,"> $200,000",Battery Park City,Y,Y,Y,43,
+emailofnewyorker+367@gmail.com,F,76,"$80,000 - $120,000",Upper West Side,N,Y,Y,31,
+emailofnewyorker+31@gmail.com,F,19,"> $200,000",SoHo,Y,Y,Y,44,
+emailofnewyorker+198@gmail.com,F,59,"$20,001 - $40,000",NoHo,Y,Y,Y,8,
+emailofnewyorker+104@gmail.com,F,71,"$120,000 - $200,000",Upper West Side,Y,Y,Y,21,
+emailofnewyorker+109@gmail.com,F,64,"$120,000 - $200,000",Little Australia,N,Y,Y,36,
+emailofnewyorker+96@gmail.com,F,48,"$120,000 - $200,000",Midtown West,Y,Y,Y,25,
+emailofnewyorker+26@gmail.com,F,72,"> $200,000",Financial District,Y,N,Y,32,
+emailofnewyorker+74@gmail.com,F,31,"$120,000 - $200,000",Little Brazil,Y,Y,Y,26,
+emailofnewyorker+439@gmail.com,F,52,"$20,001 - $40,000",Theater District,Y,N,N,,I think it is more unsafe than taxis
+emailofnewyorker+304@gmail.com,F,36,"$40,001 - $80,000",Midtown,Y,Y,Y,21,
+emailofnewyorker+167@gmail.com,F,29,"$20,001 - $40,000","Manhattan Valley, Bloomingdale District",Y,Y,Y,17,
+emailofnewyorker+384@gmail.com,M,29,"$80,000 - $120,000",SoHo,Y,Y,Y,17,
+emailofnewyorker+85@gmail.com,F,35,"$120,000 - $200,000",Tudor City,N,Y,Y,30,
+emailofnewyorker+260@gmail.com,F,32,"$40,001 - $80,000",Yorkville,Y,Y,Y,17,
+emailofnewyorker+322@gmail.com,M,68,"$80,000 - $120,000",Rockefeller Center,Y,Y,Y,29,
+emailofnewyorker+342@gmail.com,F,37,"$80,000 - $120,000",Little Brazil,Y,N,Y,19,
+emailofnewyorker+133@gmail.com,F,73,"$120,000 - $200,000",Hell's Kitchen,Y,N,Y,40,
+emailofnewyorker+312@gmail.com,F,51,"$80,000 - $120,000",Harlem,Y,N,Y,29,
+emailofnewyorker+456@gmail.com,F,44,"$40,001 - $80,000",Times Square,Y,Y,N,,Not worth the extra money
+emailofnewyorker+201@gmail.com,M,47,"$40,001 - $80,000",Upper West Side,Y,N,Y,23,
+emailofnewyorker+309@gmail.com,F,20,"$80,000 - $120,000",Columbus Circle,N,N,Y,19,
